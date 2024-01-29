@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Server Manager
+Comment=Effortlessly manage your servers
+Exec=python3 <Give server-manager folder path here>/connect.py
+Terminal=true
+Type=Application
+Icon=<Give server-manager folder path here>/app_icon/server-setting.png
